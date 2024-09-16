@@ -1,2 +1,2 @@
-# Disatster-Dataset
+# Disaster-Dataset
  
