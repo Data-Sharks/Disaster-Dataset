@@ -1,0 +1,21 @@
+,Country,Disaster Group,Number of Disasters
+0,China,Natural,643
+1,India,Natural,403
+2,United States of America,Natural,599
+3,Indonesia,Natural,390
+4,Philippines,Natural,366
+5,Nigeria,Natural,109
+6,Pakistan,Natural,165
+7,Russian Federation,Natural,128
+8,Democratic Republic of the Congo,Natural,128
+9,Bangladesh,Natural,147
+10,China,Technological,696
+11,India,Technological,392
+12,United States of America,Technological,99
+13,Indonesia,Technological,167
+14,Philippines,Technological,89
+15,Nigeria,Technological,319
+16,Pakistan,Technological,149
+17,Russian Federation,Technological,178
+18,Democratic Republic of the Congo,Technological,168
+19,Bangladesh,Technological,124

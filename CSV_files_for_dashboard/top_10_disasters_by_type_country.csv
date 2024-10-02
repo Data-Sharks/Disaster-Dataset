@@ -1,0 +1,311 @@
+,Country,Disaster Type,Number of Disasters
+0,China,Air,6
+1,India,Air,10
+2,United States of America,Air,23
+3,Indonesia,Air,22
+4,Philippines,Air,6
+5,Nigeria,Air,7
+6,Pakistan,Air,10
+7,Russian Federation,Air,49
+8,Democratic Republic of the Congo,Air,18
+9,Bangladesh,Air,0
+10,China,Animal incident,0
+11,India,Animal incident,0
+12,United States of America,Animal incident,0
+13,Indonesia,Animal incident,0
+14,Philippines,Animal incident,0
+15,Nigeria,Animal incident,0
+16,Pakistan,Animal incident,0
+17,Russian Federation,Animal incident,0
+18,Democratic Republic of the Congo,Animal incident,0
+19,Bangladesh,Animal incident,0
+20,China,Chemical spill,6
+21,India,Chemical spill,0
+22,United States of America,Chemical spill,1
+23,Indonesia,Chemical spill,0
+24,Philippines,Chemical spill,1
+25,Nigeria,Chemical spill,0
+26,Pakistan,Chemical spill,1
+27,Russian Federation,Chemical spill,1
+28,Democratic Republic of the Congo,Chemical spill,0
+29,Bangladesh,Chemical spill,0
+30,China,Collapse (Industrial),31
+31,India,Collapse (Industrial),10
+32,United States of America,Collapse (Industrial),0
+33,Indonesia,Collapse (Industrial),7
+34,Philippines,Collapse (Industrial),1
+35,Nigeria,Collapse (Industrial),4
+36,Pakistan,Collapse (Industrial),2
+37,Russian Federation,Collapse (Industrial),2
+38,Democratic Republic of the Congo,Collapse (Industrial),16
+39,Bangladesh,Collapse (Industrial),2
+40,China,Collapse (Miscellaneous),19
+41,India,Collapse (Miscellaneous),31
+42,United States of America,Collapse (Miscellaneous),6
+43,Indonesia,Collapse (Miscellaneous),3
+44,Philippines,Collapse (Miscellaneous),0
+45,Nigeria,Collapse (Miscellaneous),9
+46,Pakistan,Collapse (Miscellaneous),6
+47,Russian Federation,Collapse (Miscellaneous),4
+48,Democratic Republic of the Congo,Collapse (Miscellaneous),0
+49,Bangladesh,Collapse (Miscellaneous),6
+50,China,Drought,26
+51,India,Drought,5
+52,United States of America,Drought,15
+53,Indonesia,Drought,3
+54,Philippines,Drought,4
+55,Nigeria,Drought,1
+56,Pakistan,Drought,1
+57,Russian Federation,Drought,3
+58,Democratic Republic of the Congo,Drought,1
+59,Bangladesh,Drought,1
+60,China,Earthquake,112
+61,India,Earthquake,11
+62,United States of America,Earthquake,10
+63,Indonesia,Earthquake,79
+64,Philippines,Earthquake,24
+65,Nigeria,Earthquake,0
+66,Pakistan,Earthquake,18
+67,Russian Federation,Earthquake,6
+68,Democratic Republic of the Congo,Earthquake,3
+69,Bangladesh,Earthquake,5
+70,China,Epidemic,4
+71,India,Epidemic,26
+72,United States of America,Epidemic,3
+73,Indonesia,Epidemic,9
+74,Philippines,Epidemic,12
+75,Nigeria,Epidemic,48
+76,Pakistan,Epidemic,11
+77,Russian Federation,Epidemic,6
+78,Democratic Republic of the Congo,Epidemic,63
+79,Bangladesh,Epidemic,10
+80,China,Explosion (Industrial),276
+81,India,Explosion (Industrial),15
+82,United States of America,Explosion (Industrial),11
+83,Indonesia,Explosion (Industrial),6
+84,Philippines,Explosion (Industrial),0
+85,Nigeria,Explosion (Industrial),27
+86,Pakistan,Explosion (Industrial),7
+87,Russian Federation,Explosion (Industrial),14
+88,Democratic Republic of the Congo,Explosion (Industrial),0
+89,Bangladesh,Explosion (Industrial),1
+90,China,Explosion (Miscellaneous),26
+91,India,Explosion (Miscellaneous),8
+92,United States of America,Explosion (Miscellaneous),3
+93,Indonesia,Explosion (Miscellaneous),2
+94,Philippines,Explosion (Miscellaneous),3
+95,Nigeria,Explosion (Miscellaneous),11
+96,Pakistan,Explosion (Miscellaneous),6
+97,Russian Federation,Explosion (Miscellaneous),9
+98,Democratic Republic of the Congo,Explosion (Miscellaneous),3
+99,Bangladesh,Explosion (Miscellaneous),1
+100,China,Extreme temperature,9
+101,India,Extreme temperature,34
+102,United States of America,Extreme temperature,16
+103,Indonesia,Extreme temperature,0
+104,Philippines,Extreme temperature,0
+105,Nigeria,Extreme temperature,1
+106,Pakistan,Extreme temperature,12
+107,Russian Federation,Extreme temperature,13
+108,Democratic Republic of the Congo,Extreme temperature,0
+109,Bangladesh,Extreme temperature,15
+110,China,Fire (Industrial),37
+111,India,Fire (Industrial),15
+112,United States of America,Fire (Industrial),0
+113,Indonesia,Fire (Industrial),4
+114,Philippines,Fire (Industrial),2
+115,Nigeria,Fire (Industrial),2
+116,Pakistan,Fire (Industrial),2
+117,Russian Federation,Fire (Industrial),7
+118,Democratic Republic of the Congo,Fire (Industrial),0
+119,Bangladesh,Fire (Industrial),11
+120,China,Fire (Miscellaneous),42
+121,India,Fire (Miscellaneous),30
+122,United States of America,Fire (Miscellaneous),13
+123,Indonesia,Fire (Miscellaneous),5
+124,Philippines,Fire (Miscellaneous),25
+125,Nigeria,Fire (Miscellaneous),5
+126,Pakistan,Fire (Miscellaneous),9
+127,Russian Federation,Fire (Miscellaneous),29
+128,Democratic Republic of the Congo,Fire (Miscellaneous),5
+129,Bangladesh,Fire (Miscellaneous),17
+130,China,Flood,218
+131,India,Flood,193
+132,United States of America,Flood,116
+133,Indonesia,Flood,200
+134,Philippines,Flood,106
+135,Nigeria,Flood,50
+136,Pakistan,Flood,87
+137,Russian Federation,Flood,55
+138,Democratic Republic of the Congo,Flood,38
+139,Bangladesh,Flood,41
+140,China,Gas leak,18
+141,India,Gas leak,4
+142,United States of America,Gas leak,2
+143,Indonesia,Gas leak,0
+144,Philippines,Gas leak,0
+145,Nigeria,Gas leak,0
+146,Pakistan,Gas leak,1
+147,Russian Federation,Gas leak,1
+148,Democratic Republic of the Congo,Gas leak,0
+149,Bangladesh,Gas leak,1
+150,China,Glacial lake outburst flood,0
+151,India,Glacial lake outburst flood,3
+152,United States of America,Glacial lake outburst flood,0
+153,Indonesia,Glacial lake outburst flood,0
+154,Philippines,Glacial lake outburst flood,0
+155,Nigeria,Glacial lake outburst flood,0
+156,Pakistan,Glacial lake outburst flood,0
+157,Russian Federation,Glacial lake outburst flood,0
+158,Democratic Republic of the Congo,Glacial lake outburst flood,0
+159,Bangladesh,Glacial lake outburst flood,0
+160,China,Impact,0
+161,India,Impact,0
+162,United States of America,Impact,0
+163,Indonesia,Impact,0
+164,Philippines,Impact,0
+165,Nigeria,Impact,0
+166,Pakistan,Impact,0
+167,Russian Federation,Impact,1
+168,Democratic Republic of the Congo,Impact,0
+169,Bangladesh,Impact,0
+170,China,Industrial accident (General),66
+171,India,Industrial accident (General),4
+172,United States of America,Industrial accident (General),0
+173,Indonesia,Industrial accident (General),2
+174,Philippines,Industrial accident (General),0
+175,Nigeria,Industrial accident (General),1
+176,Pakistan,Industrial accident (General),0
+177,Russian Federation,Industrial accident (General),1
+178,Democratic Republic of the Congo,Industrial accident (General),1
+179,Bangladesh,Industrial accident (General),0
+180,China,Infestation,1
+181,India,Infestation,0
+182,United States of America,Infestation,0
+183,Indonesia,Infestation,0
+184,Philippines,Infestation,0
+185,Nigeria,Infestation,1
+186,Pakistan,Infestation,1
+187,Russian Federation,Infestation,1
+188,Democratic Republic of the Congo,Infestation,0
+189,Bangladesh,Infestation,0
+190,China,Mass movement (dry),3
+191,India,Mass movement (dry),1
+192,United States of America,Mass movement (dry),0
+193,Indonesia,Mass movement (dry),0
+194,Philippines,Mass movement (dry),1
+195,Nigeria,Mass movement (dry),0
+196,Pakistan,Mass movement (dry),1
+197,Russian Federation,Mass movement (dry),0
+198,Democratic Republic of the Congo,Mass movement (dry),0
+199,Bangladesh,Mass movement (dry),0
+200,China,Mass movement (wet),58
+201,India,Mass movement (wet),28
+202,United States of America,Mass movement (wet),3
+203,Indonesia,Mass movement (wet),56
+204,Philippines,Mass movement (wet),17
+205,Nigeria,Mass movement (wet),2
+206,Pakistan,Mass movement (wet),15
+207,Russian Federation,Mass movement (wet),5
+208,Democratic Republic of the Congo,Mass movement (wet),11
+209,Bangladesh,Mass movement (wet),6
+210,China,Miscellaneous accident (General),11
+211,India,Miscellaneous accident (General),30
+212,United States of America,Miscellaneous accident (General),3
+213,Indonesia,Miscellaneous accident (General),7
+214,Philippines,Miscellaneous accident (General),3
+215,Nigeria,Miscellaneous accident (General),3
+216,Pakistan,Miscellaneous accident (General),10
+217,Russian Federation,Miscellaneous accident (General),8
+218,Democratic Republic of the Congo,Miscellaneous accident (General),5
+219,Bangladesh,Miscellaneous accident (General),4
+220,China,Oil spill,0
+221,India,Oil spill,0
+222,United States of America,Oil spill,1
+223,Indonesia,Oil spill,0
+224,Philippines,Oil spill,1
+225,Nigeria,Oil spill,0
+226,Pakistan,Oil spill,0
+227,Russian Federation,Oil spill,0
+228,Democratic Republic of the Congo,Oil spill,0
+229,Bangladesh,Oil spill,0
+230,China,Poisoning,6
+231,India,Poisoning,1
+232,United States of America,Poisoning,0
+233,Indonesia,Poisoning,1
+234,Philippines,Poisoning,0
+235,Nigeria,Poisoning,1
+236,Pakistan,Poisoning,1
+237,Russian Federation,Poisoning,0
+238,Democratic Republic of the Congo,Poisoning,0
+239,Bangladesh,Poisoning,1
+240,China,Radiation,2
+241,India,Radiation,0
+242,United States of America,Radiation,0
+243,Indonesia,Radiation,0
+244,Philippines,Radiation,0
+245,Nigeria,Radiation,0
+246,Pakistan,Radiation,0
+247,Russian Federation,Radiation,0
+248,Democratic Republic of the Congo,Radiation,0
+249,Bangladesh,Radiation,0
+250,China,Rail,7
+251,India,Rail,55
+252,United States of America,Rail,12
+253,Indonesia,Rail,13
+254,Philippines,Rail,1
+255,Nigeria,Rail,1
+256,Pakistan,Rail,14
+257,Russian Federation,Rail,4
+258,Democratic Republic of the Congo,Rail,13
+259,Bangladesh,Rail,5
+260,China,Road,107
+261,India,Road,140
+262,United States of America,Road,13
+263,Indonesia,Road,26
+264,Philippines,Road,19
+265,Nigeria,Road,196
+266,Pakistan,Road,70
+267,Russian Federation,Road,30
+268,Democratic Republic of the Congo,Road,33
+269,Bangladesh,Road,14
+270,China,Storm,207
+271,India,Storm,100
+272,United States of America,Storm,358
+273,Indonesia,Storm,8
+274,Philippines,Storm,187
+275,Nigeria,Storm,6
+276,Pakistan,Storm,18
+277,Russian Federation,Storm,18
+278,Democratic Republic of the Congo,Storm,6
+279,Bangladesh,Storm,69
+280,China,Volcanic activity,0
+281,India,Volcanic activity,0
+282,United States of America,Volcanic activity,1
+283,Indonesia,Volcanic activity,29
+284,Philippines,Volcanic activity,15
+285,Nigeria,Volcanic activity,0
+286,Pakistan,Volcanic activity,0
+287,Russian Federation,Volcanic activity,0
+288,Democratic Republic of the Congo,Volcanic activity,3
+289,Bangladesh,Volcanic activity,0
+290,China,Water,36
+291,India,Water,39
+292,United States of America,Water,11
+293,Indonesia,Water,69
+294,Philippines,Water,27
+295,Nigeria,Water,52
+296,Pakistan,Water,10
+297,Russian Federation,Water,19
+298,Democratic Republic of the Congo,Water,74
+299,Bangladesh,Water,61
+300,China,Wildfire,5
+301,India,Wildfire,2
+302,United States of America,Wildfire,77
+303,Indonesia,Wildfire,6
+304,Philippines,Wildfire,0
+305,Nigeria,Wildfire,0
+306,Pakistan,Wildfire,1
+307,Russian Federation,Wildfire,20
+308,Democratic Republic of the Congo,Wildfire,3
+309,Bangladesh,Wildfire,0
